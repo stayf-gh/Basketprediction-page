@@ -1,3 +1,4996 @@
 {
-  "analyticsMatches": {}
+  "analyticsMatches": {
+    "443341": {
+      "analytics": {
+        "awaySplitWinRate": 0.5,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 1,
+          "elo": 1509.2219851562634,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 1,
+          "net_margin_avg": 0.5,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 76,
+          "ppg_against": 37.5,
+          "ppg_for": 38,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1490.7780148437366,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -1,
+          "net_margin_avg": -0.5,
+          "played": 2,
+          "points_against": 76,
+          "points_for": 75,
+          "ppg_against": 38,
+          "ppg_for": 37.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0.5,
+        "last5_avg_margin_home": -0.5,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-08-30T02:00:00+00:00",
+      "id": 443341,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 24,
+          "quarter_2": 20,
+          "quarter_3": 13,
+          "quarter_4": 19,
+          "total": 76
+        },
+        "home": {
+          "quarter_1": 31,
+          "quarter_2": 16,
+          "quarter_3": 11,
+          "quarter_4": 17,
+          "total": 75
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 166,
+          "logo": "https://media.api-sports.io/basketball/teams/166.png",
+          "name": "Indiana Fever W"
+        },
+        "home": {
+          "id": 168,
+          "logo": "https://media.api-sports.io/basketball/teams/168.png",
+          "name": "Los Angeles Sparks W"
+        }
+      },
+      "time": "02:00",
+      "timestamp": 1756519200,
+      "timezone": "UTC",
+      "venue": "Crypto.com Arena"
+    },
+    "443342": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.5637179807936,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 24,
+          "net_margin_avg": 24,
+          "played": 1,
+          "points_against": 70,
+          "points_for": 94,
+          "ppg_against": 70,
+          "ppg_for": 94,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1489.4362820192064,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -24,
+          "net_margin_avg": -12,
+          "played": 2,
+          "points_against": 94,
+          "points_for": 70,
+          "ppg_against": 47,
+          "ppg_for": 35,
+          "won": 0
+        },
+        "last5_avg_margin_away": 24,
+        "last5_avg_margin_home": -12,
+        "last5_weighted_winrate_away": 1,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-08-30T23:00:00+00:00",
+      "id": 443342,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 21,
+          "quarter_2": 21,
+          "quarter_3": 24,
+          "quarter_4": 28,
+          "total": 94
+        },
+        "home": {
+          "quarter_1": 19,
+          "quarter_2": 10,
+          "quarter_3": 25,
+          "quarter_4": 16,
+          "total": 70
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 169,
+          "logo": "https://media.api-sports.io/basketball/teams/169.png",
+          "name": "Minnesota Lynx W"
+        },
+        "home": {
+          "id": 164,
+          "logo": "https://media.api-sports.io/basketball/teams/164.png",
+          "name": "Connecticut Sun W"
+        }
+      },
+      "time": "23:00",
+      "timestamp": 1756594800,
+      "timezone": "UTC",
+      "venue": "Mohegan Sun Arena"
+    },
+    "443343": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 0,
+          "elo": 1486.4210444220003,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -37,
+          "net_margin_avg": -18.5,
+          "played": 2,
+          "points_against": 99,
+          "points_for": 62,
+          "ppg_against": 49.5,
+          "ppg_for": 31,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 0.5,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1513.5789555779997,
+          "home_played": 2,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 37,
+          "net_margin_avg": 18.5,
+          "played": 2,
+          "points_against": 62,
+          "points_for": 99,
+          "ppg_against": 31,
+          "ppg_for": 49.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": -18.5,
+        "last5_avg_margin_home": 18.5,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-08-31T00:30:00+00:00",
+      "id": 443343,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 8,
+          "quarter_2": 14,
+          "quarter_3": 21,
+          "quarter_4": 19,
+          "total": 62
+        },
+        "home": {
+          "quarter_1": 19,
+          "quarter_2": 32,
+          "quarter_3": 27,
+          "quarter_4": 21,
+          "total": 99
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 175,
+          "logo": "https://media.api-sports.io/basketball/teams/175.png",
+          "name": "Washington Mystics W"
+        },
+        "home": {
+          "id": 7326,
+          "logo": "https://media.api-sports.io/basketball/teams/7326.png",
+          "name": "Golden State Valkyries W"
+        }
+      },
+      "time": "00:30",
+      "timestamp": 1756600200,
+      "timezone": "UTC",
+      "venue": "Chase Center"
+    },
+    "443344": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1487.2501174062652,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -10,
+          "net_margin_avg": -10,
+          "played": 1,
+          "points_against": 79,
+          "points_for": 69,
+          "ppg_against": 79,
+          "ppg_for": 69,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1512.7498825937348,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 10,
+          "net_margin_avg": 10,
+          "played": 1,
+          "points_against": 69,
+          "points_for": 79,
+          "ppg_against": 69,
+          "ppg_for": 79,
+          "won": 1
+        },
+        "last5_avg_margin_away": -10,
+        "last5_avg_margin_home": 10,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-08-31T01:00:00+00:00",
+      "id": 443344,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 19,
+          "quarter_2": 15,
+          "quarter_3": 16,
+          "quarter_4": 19,
+          "total": 69
+        },
+        "home": {
+          "quarter_1": 22,
+          "quarter_2": 22,
+          "quarter_3": 13,
+          "quarter_4": 22,
+          "total": 79
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 163,
+          "logo": "https://media.api-sports.io/basketball/teams/163.png",
+          "name": "Chicago Sky W"
+        },
+        "home": {
+          "id": 172,
+          "logo": "https://media.api-sports.io/basketball/teams/172.png",
+          "name": "Seattle Storm W"
+        }
+      },
+      "time": "01:00",
+      "timestamp": 1756602000,
+      "timezone": "UTC",
+      "venue": "Climate Pledge Arena"
+    },
+    "443345": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.920761956866,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -17,
+          "net_margin_avg": -17,
+          "played": 1,
+          "points_against": 80,
+          "points_for": 63,
+          "ppg_against": 80,
+          "ppg_for": 63,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1513.079238043134,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 17,
+          "net_margin_avg": 17,
+          "played": 1,
+          "points_against": 63,
+          "points_for": 80,
+          "ppg_against": 63,
+          "ppg_for": 80,
+          "won": 1
+        },
+        "last5_avg_margin_away": -17,
+        "last5_avg_margin_home": 17,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-08-31T02:00:00+00:00",
+      "id": 443345,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 16,
+          "quarter_2": 23,
+          "quarter_3": 10,
+          "quarter_4": 14,
+          "total": 63
+        },
+        "home": {
+          "quarter_1": 17,
+          "quarter_2": 20,
+          "quarter_3": 18,
+          "quarter_4": 25,
+          "total": 80
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 170,
+          "logo": "https://media.api-sports.io/basketball/teams/170.png",
+          "name": "New York Liberty W"
+        },
+        "home": {
+          "id": 171,
+          "logo": "https://media.api-sports.io/basketball/teams/171.png",
+          "name": "Phoenix Mercury W"
+        }
+      },
+      "time": "02:00",
+      "timestamp": 1756605600,
+      "timezone": "UTC",
+      "venue": "Footprint Center"
+    },
+    "443346": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 0,
+          "elo": 1486.4210444220003,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -37,
+          "net_margin_avg": -18.5,
+          "played": 2,
+          "points_against": 99,
+          "points_for": 62,
+          "ppg_against": 49.5,
+          "ppg_for": 31,
+          "won": 0
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1490.7780148437366,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -1,
+          "net_margin_avg": -0.5,
+          "played": 2,
+          "points_against": 76,
+          "points_for": 75,
+          "ppg_against": 38,
+          "ppg_for": 37.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": -18.5,
+        "last5_avg_margin_home": -0.5,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "rest_days_away": 0,
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-09-01T00:00:00+00:00",
+      "id": 443346,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 175,
+          "logo": "https://media.api-sports.io/basketball/teams/175.png",
+          "name": "Washington Mystics W"
+        },
+        "home": {
+          "id": 168,
+          "logo": "https://media.api-sports.io/basketball/teams/168.png",
+          "name": "Los Angeles Sparks W"
+        }
+      },
+      "time": "00:00",
+      "timestamp": 1756684800,
+      "timezone": "UTC",
+      "venue": "Crypto.com Arena"
+    },
+    "443347": {
+      "analytics": {
+        "awaySplitWinRate": 0.5,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 1,
+          "elo": 1509.2219851562634,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 1,
+          "net_margin_avg": 0.5,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 76,
+          "ppg_against": 37.5,
+          "ppg_for": 38,
+          "won": 1
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0.5,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1513.5789555779997,
+          "home_played": 2,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 37,
+          "net_margin_avg": 18.5,
+          "played": 2,
+          "points_against": 62,
+          "points_for": 99,
+          "ppg_against": 31,
+          "ppg_for": 49.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": 0.5,
+        "last5_avg_margin_home": 18.5,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-09-01T00:30:00+00:00",
+      "id": 443347,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 166,
+          "logo": "https://media.api-sports.io/basketball/teams/166.png",
+          "name": "Indiana Fever W"
+        },
+        "home": {
+          "id": 7326,
+          "logo": "https://media.api-sports.io/basketball/teams/7326.png",
+          "name": "Golden State Valkyries W"
+        }
+      },
+      "time": "00:30",
+      "timestamp": 1756686600,
+      "timezone": "UTC",
+      "venue": "Chase Center"
+    },
+    "443348": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1489.4362820192064,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -24,
+          "net_margin_avg": -12,
+          "played": 2,
+          "points_against": 94,
+          "points_for": 70,
+          "ppg_against": 47,
+          "ppg_for": 35,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": -12,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "id": 5,
+        "name": "USA"
+      },
+      "date": "2025-09-01T17:00:00+00:00",
+      "id": 443348,
+      "league": {
+        "id": 13,
+        "logo": "https://media.api-sports.io/basketball/leagues/13.png",
+        "name": "NBA W",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 162,
+          "logo": "https://media.api-sports.io/basketball/teams/162.png",
+          "name": "Atlanta Dream W"
+        },
+        "home": {
+          "id": 164,
+          "logo": "https://media.api-sports.io/basketball/teams/164.png",
+          "name": "Connecticut Sun W"
+        }
+      },
+      "time": "17:00",
+      "timestamp": 1756746000,
+      "timezone": "UTC",
+      "venue": "Mohegan Sun Arena"
+    },
+    "446204": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.4451783157924,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 19,
+          "net_margin_avg": 9.5,
+          "played": 2,
+          "points_against": 88,
+          "points_for": 107,
+          "ppg_against": 44,
+          "ppg_for": 53.5,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.5548216842076,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -19,
+          "net_margin_avg": -9.5,
+          "played": 2,
+          "points_against": 107,
+          "points_for": 88,
+          "ppg_against": 53.5,
+          "ppg_for": 44,
+          "won": 0
+        },
+        "last5_avg_margin_away": 9.5,
+        "last5_avg_margin_home": -9.5,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T10:30:00+00:00",
+      "id": 446204,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 32,
+          "quarter_2": 23,
+          "quarter_3": 28,
+          "quarter_4": 24,
+          "total": 107
+        },
+        "home": {
+          "quarter_1": 20,
+          "quarter_2": 27,
+          "quarter_3": 25,
+          "quarter_4": 16,
+          "total": 88
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3018,
+          "logo": "https://media.api-sports.io/basketball/teams/3018.png",
+          "name": "Germany"
+        },
+        "home": {
+          "id": 3021,
+          "logo": "https://media.api-sports.io/basketball/teams/3021.png",
+          "name": "Lithuania"
+        }
+      },
+      "time": "10:30",
+      "timestamp": 1756549800,
+      "timezone": "UTC",
+      "venue": "Nokia Arena",
+      "week": "3"
+    },
+    "446205": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.354111211039,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -41,
+          "net_margin_avg": -20.5,
+          "played": 2,
+          "points_against": 95,
+          "points_for": 54,
+          "ppg_against": 47.5,
+          "ppg_for": 27,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1513.645888788961,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 41,
+          "net_margin_avg": 20.5,
+          "played": 2,
+          "points_against": 54,
+          "points_for": 95,
+          "ppg_against": 27,
+          "ppg_for": 47.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": -20.5,
+        "last5_avg_margin_home": 20.5,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T18:15:00+00:00",
+      "id": 446205,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 13,
+          "quarter_2": 14,
+          "quarter_3": 10,
+          "quarter_4": 17,
+          "total": 54
+        },
+        "home": {
+          "quarter_1": 22,
+          "quarter_2": 29,
+          "quarter_3": 22,
+          "quarter_4": 22,
+          "total": 95
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3150,
+          "logo": "https://media.api-sports.io/basketball/teams/3150.png",
+          "name": "Portugal"
+        },
+        "home": {
+          "id": 3032,
+          "logo": "https://media.api-sports.io/basketball/teams/3032.png",
+          "name": "Turkey"
+        }
+      },
+      "time": "18:15",
+      "timestamp": 1756577700,
+      "timezone": "UTC",
+      "venue": "Xiaomi Arena",
+      "week": "3"
+    },
+    "446206": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1477.2632655274847,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -38,
+          "net_margin_avg": -19,
+          "played": 2,
+          "points_against": 184,
+          "points_for": 146,
+          "ppg_against": 92,
+          "ppg_for": 73,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1526.0684762380235,
+          "home_played": 2,
+          "home_won": 2,
+          "lost": 0,
+          "margin_sum": 65,
+          "net_margin_avg": 32.5,
+          "played": 2,
+          "points_against": 114,
+          "points_for": 179,
+          "ppg_against": 57,
+          "ppg_for": 89.5,
+          "won": 2
+        },
+        "last5_avg_margin_away": -19,
+        "last5_avg_margin_home": 32.5,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 2 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 2 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T18:30:00+00:00",
+      "id": 446206,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 16,
+          "quarter_2": 14,
+          "quarter_3": 17,
+          "quarter_4": 20,
+          "total": 67
+        },
+        "home": {
+          "quarter_1": 24,
+          "quarter_2": 20,
+          "quarter_3": 28,
+          "quarter_4": 16,
+          "total": 88
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3134,
+          "logo": "https://media.api-sports.io/basketball/teams/3134.png",
+          "name": "Bosnia & Herzegovina"
+        },
+        "home": {
+          "id": 3058,
+          "logo": "https://media.api-sports.io/basketball/teams/3058.png",
+          "name": "Spain"
+        }
+      },
+      "time": "18:30",
+      "timestamp": 1756578600,
+      "timezone": "UTC",
+      "venue": "Spyros Kyprianou Arena",
+      "week": "2"
+    },
+    "446207": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1501.828418995095,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 1,
+          "margin_sum": 11,
+          "net_margin_avg": 5.5,
+          "played": 2,
+          "points_against": 135,
+          "points_for": 146,
+          "ppg_against": 67.5,
+          "ppg_for": 73,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1523.8568848848147,
+          "home_played": 2,
+          "home_won": 2,
+          "lost": 0,
+          "margin_sum": 11,
+          "net_margin_avg": 5.5,
+          "played": 2,
+          "points_against": 139,
+          "points_for": 150,
+          "ppg_against": 69.5,
+          "ppg_for": 75,
+          "won": 2
+        },
+        "last5_avg_margin_away": 5.5,
+        "last5_avg_margin_home": 5.5,
+        "last5_weighted_winrate_away": 0.5555555555555556,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 2 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T18:30:00+00:00",
+      "id": 446207,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 14,
+          "quarter_2": 12,
+          "quarter_3": 25,
+          "quarter_4": 13,
+          "total": 64
+        },
+        "home": {
+          "quarter_1": 19,
+          "quarter_2": 18,
+          "quarter_3": 11,
+          "quarter_4": 18,
+          "total": 66
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3143,
+          "logo": "https://media.api-sports.io/basketball/teams/3143.png",
+          "name": "Israel"
+        },
+        "home": {
+          "id": 3024,
+          "logo": "https://media.api-sports.io/basketball/teams/3024.png",
+          "name": "Poland"
+        }
+      },
+      "time": "18:30",
+      "timestamp": 1756578600,
+      "timezone": "UTC",
+      "venue": "Spodek",
+      "week": "2"
+    },
+    "446208": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.47109692147,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 20,
+          "net_margin_avg": 10,
+          "played": 2,
+          "points_against": 65,
+          "points_for": 85,
+          "ppg_against": 32.5,
+          "ppg_for": 42.5,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.52890307853,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -20,
+          "net_margin_avg": -10,
+          "played": 2,
+          "points_against": 85,
+          "points_for": 65,
+          "ppg_against": 42.5,
+          "ppg_for": 32.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": 10,
+        "last5_avg_margin_home": -10,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T17:30:00+00:00",
+      "id": 446208,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 23,
+          "quarter_2": 24,
+          "quarter_3": 20,
+          "quarter_4": 18,
+          "total": 85
+        },
+        "home": {
+          "quarter_1": 23,
+          "quarter_2": 14,
+          "quarter_3": 15,
+          "quarter_4": 13,
+          "total": 65
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3139,
+          "logo": "https://media.api-sports.io/basketball/teams/3139.png",
+          "name": "Finland"
+        },
+        "home": {
+          "id": 3147,
+          "logo": "https://media.api-sports.io/basketball/teams/3147.png",
+          "name": "Montenegro"
+        }
+      },
+      "time": "17:30",
+      "timestamp": 1756575000,
+      "timezone": "UTC",
+      "venue": "Nokia Arena",
+      "week": "3"
+    },
+    "446209": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1476.9349737280486,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -57,
+          "net_margin_avg": -28.5,
+          "played": 2,
+          "points_against": 172,
+          "points_for": 115,
+          "ppg_against": 86,
+          "ppg_for": 57.5,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1522.5643050779513,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 33,
+          "net_margin_avg": 16.5,
+          "played": 2,
+          "points_against": 141,
+          "points_for": 174,
+          "ppg_against": 70.5,
+          "ppg_for": 87,
+          "won": 2
+        },
+        "last5_avg_margin_away": -28.5,
+        "last5_avg_margin_home": 16.5,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 2 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 2 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T12:00:00+00:00",
+      "id": 446209,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 10,
+          "quarter_2": 22,
+          "quarter_3": 15,
+          "quarter_4": 15,
+          "total": 62
+        },
+        "home": {
+          "quarter_1": 18,
+          "quarter_2": 14,
+          "quarter_3": 21,
+          "quarter_4": 25,
+          "total": 78
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 6585,
+          "logo": "https://media.api-sports.io/basketball/teams/6585.png",
+          "name": "Georgia"
+        },
+        "home": {
+          "id": 3020,
+          "logo": "https://media.api-sports.io/basketball/teams/3020.png",
+          "name": "Italy"
+        }
+      },
+      "time": "12:00",
+      "timestamp": 1756555200,
+      "timezone": "UTC",
+      "venue": "Spyros Kyprianou Arena",
+      "week": "2"
+    },
+    "446210": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1509.708742652774,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 4,
+          "net_margin_avg": 2,
+          "played": 2,
+          "points_against": 80,
+          "points_for": 84,
+          "ppg_against": 40,
+          "ppg_for": 42,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1490.291257347226,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -4,
+          "net_margin_avg": -2,
+          "played": 2,
+          "points_against": 84,
+          "points_for": 80,
+          "ppg_against": 42,
+          "ppg_for": 40,
+          "won": 0
+        },
+        "last5_avg_margin_away": 2,
+        "last5_avg_margin_home": -2,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T15:00:00+00:00",
+      "id": 446210,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 22,
+          "quarter_2": 20,
+          "quarter_3": 25,
+          "quarter_4": 17,
+          "total": 84
+        },
+        "home": {
+          "quarter_1": 18,
+          "quarter_2": 20,
+          "quarter_3": 18,
+          "quarter_4": 24,
+          "total": 80
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3028,
+          "logo": "https://media.api-sports.io/basketball/teams/3028.png",
+          "name": "Serbia"
+        },
+        "home": {
+          "id": 3145,
+          "logo": "https://media.api-sports.io/basketball/teams/3145.png",
+          "name": "Latvia"
+        }
+      },
+      "time": "15:00",
+      "timestamp": 1756566000,
+      "timezone": "UTC",
+      "venue": "Xiaomi Arena",
+      "week": "3"
+    },
+    "446211": {
+      "analytics": {
+        "awaySplitWinRate": 0.5,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 1,
+          "elo": 1496.1333898434425,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -10,
+          "net_margin_avg": -5,
+          "played": 2,
+          "points_against": 150,
+          "points_for": 140,
+          "ppg_against": 75,
+          "ppg_for": 70,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1478.065650262512,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -16,
+          "net_margin_avg": -8,
+          "played": 2,
+          "points_against": 155,
+          "points_for": 139,
+          "ppg_against": 77.5,
+          "ppg_for": 69.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": -5,
+        "last5_avg_margin_home": -8,
+        "last5_weighted_winrate_away": 0.4444444444444444,
+        "last5_weighted_winrate_home": 0,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 0 تعادل، 2 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T12:00:00+00:00",
+      "id": 446211,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 17,
+          "quarter_2": 15,
+          "quarter_3": 14,
+          "quarter_4": 25,
+          "total": 71
+        },
+        "home": {
+          "quarter_1": 21,
+          "quarter_2": 15,
+          "quarter_3": 16,
+          "quarter_4": 12,
+          "total": 64
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3133,
+          "logo": "https://media.api-sports.io/basketball/teams/3133.png",
+          "name": "Belgium"
+        },
+        "home": {
+          "id": 3142,
+          "logo": "https://media.api-sports.io/basketball/teams/3142.png",
+          "name": "Iceland"
+        }
+      },
+      "time": "12:00",
+      "timestamp": 1756555200,
+      "timezone": "UTC",
+      "venue": "Spodek",
+      "week": "2"
+    },
+    "446212": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.4451783157924,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 19,
+          "net_margin_avg": 9.5,
+          "played": 2,
+          "points_against": 59,
+          "points_for": 78,
+          "ppg_against": 29.5,
+          "ppg_for": 39,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.5548216842076,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -19,
+          "net_margin_avg": -9.5,
+          "played": 2,
+          "points_against": 78,
+          "points_for": 59,
+          "ppg_against": 39,
+          "ppg_for": 29.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": 9.5,
+        "last5_avg_margin_home": -9.5,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T13:30:00+00:00",
+      "id": 446212,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 19,
+          "quarter_2": 16,
+          "quarter_3": 26,
+          "quarter_4": 17,
+          "total": 78
+        },
+        "home": {
+          "quarter_1": 13,
+          "quarter_2": 17,
+          "quarter_3": 17,
+          "quarter_4": 12,
+          "total": 59
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3153,
+          "logo": "https://media.api-sports.io/basketball/teams/3153.png",
+          "name": "Sweden"
+        },
+        "home": {
+          "id": 3140,
+          "logo": "https://media.api-sports.io/basketball/teams/3140.png",
+          "name": "Great Britain"
+        }
+      },
+      "time": "13:30",
+      "timestamp": 1756560600,
+      "timezone": "UTC",
+      "venue": "Nokia Arena",
+      "week": "3"
+    },
+    "446213": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1501.209351717868,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 1,
+          "margin_sum": 9,
+          "net_margin_avg": 4.5,
+          "played": 2,
+          "points_against": 172,
+          "points_for": 181,
+          "ppg_against": 86,
+          "ppg_for": 90.5,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1498.9063042962678,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 1,
+          "margin_sum": -5,
+          "net_margin_avg": -2.5,
+          "played": 2,
+          "points_against": 177,
+          "points_for": 172,
+          "ppg_against": 88.5,
+          "ppg_for": 86,
+          "won": 1
+        },
+        "last5_avg_margin_away": 4.5,
+        "last5_avg_margin_home": -2.5,
+        "last5_weighted_winrate_away": 0.5555555555555556,
+        "last5_weighted_winrate_home": 0.4444444444444444,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T15:00:00+00:00",
+      "id": 446213,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 30,
+          "quarter_2": 24,
+          "quarter_3": 16,
+          "quarter_4": 25,
+          "total": 95
+        },
+        "home": {
+          "quarter_1": 28,
+          "quarter_2": 19,
+          "quarter_3": 21,
+          "quarter_4": 35,
+          "total": 103
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3029,
+          "logo": "https://media.api-sports.io/basketball/teams/3029.png",
+          "name": "Slovenia"
+        },
+        "home": {
+          "id": 3054,
+          "logo": "https://media.api-sports.io/basketball/teams/3054.png",
+          "name": "France"
+        }
+      },
+      "time": "15:00",
+      "timestamp": 1756566000,
+      "timezone": "UTC",
+      "venue": "Spodek",
+      "week": "2"
+    },
+    "446214": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.2923541078128,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 14,
+          "net_margin_avg": 7,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 89,
+          "ppg_against": 37.5,
+          "ppg_for": 44.5,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.7076458921872,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -14,
+          "net_margin_avg": -7,
+          "played": 2,
+          "points_against": 89,
+          "points_for": 75,
+          "ppg_against": 44.5,
+          "ppg_for": 37.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": 7,
+        "last5_avg_margin_home": -7,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T11:45:00+00:00",
+      "id": 446214,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 23,
+          "quarter_2": 31,
+          "quarter_3": 23,
+          "quarter_4": 12,
+          "total": 89
+        },
+        "home": {
+          "quarter_1": 19,
+          "quarter_2": 17,
+          "quarter_3": 18,
+          "quarter_4": 21,
+          "total": 75
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3138,
+          "logo": "https://media.api-sports.io/basketball/teams/3138.png",
+          "name": "Estonia"
+        },
+        "home": {
+          "id": 3016,
+          "logo": "https://media.api-sports.io/basketball/teams/3016.png",
+          "name": "Czech Republic"
+        }
+      },
+      "time": "11:45",
+      "timestamp": 1756554300,
+      "timezone": "UTC",
+      "venue": "Xiaomi Arena",
+      "week": "3"
+    },
+    "446215": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 2,
+          "elo": 1520.6479354170672,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 68,
+          "net_margin_avg": 34,
+          "played": 2,
+          "points_against": 122,
+          "points_for": 190,
+          "ppg_against": 61,
+          "ppg_for": 95,
+          "won": 2
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1476.5210440114247,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -71,
+          "net_margin_avg": -35.5,
+          "played": 2,
+          "points_against": 187,
+          "points_for": 116,
+          "ppg_against": 93.5,
+          "ppg_for": 58,
+          "won": 0
+        },
+        "last5_avg_margin_away": 34,
+        "last5_avg_margin_home": -35.5,
+        "last5_weighted_winrate_away": 1,
+        "last5_weighted_winrate_home": 0,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 2 فوز، 0 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 0 تعادل، 2 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-30T15:15:00+00:00",
+      "id": 446215,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 22,
+          "quarter_2": 21,
+          "quarter_3": 26,
+          "quarter_4": 27,
+          "total": 96
+        },
+        "home": {
+          "quarter_1": 13,
+          "quarter_2": 18,
+          "quarter_3": 16,
+          "quarter_4": 22,
+          "total": 69
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3019,
+          "logo": "https://media.api-sports.io/basketball/teams/3019.png",
+          "name": "Greece"
+        },
+        "home": {
+          "id": 3136,
+          "logo": "https://media.api-sports.io/basketball/teams/3136.png",
+          "name": "Cyprus"
+        }
+      },
+      "time": "15:15",
+      "timestamp": 1756566900,
+      "timezone": "UTC",
+      "venue": "Spyros Kyprianou Arena",
+      "week": "2"
+    },
+    "446216": {
+      "analytics": {
+        "awaySplitWinRate": 0.5,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 1,
+          "elo": 1496.1333898434425,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -10,
+          "net_margin_avg": -5,
+          "played": 2,
+          "points_against": 150,
+          "points_for": 140,
+          "ppg_against": 75,
+          "ppg_for": 70,
+          "won": 1
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1501.209351717868,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 1,
+          "margin_sum": 9,
+          "net_margin_avg": 4.5,
+          "played": 2,
+          "points_against": 172,
+          "points_for": 181,
+          "ppg_against": 86,
+          "ppg_for": 90.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": -5,
+        "last5_avg_margin_home": 4.5,
+        "last5_weighted_winrate_away": 0.4444444444444444,
+        "last5_weighted_winrate_home": 0.5555555555555556,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 1 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 0
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-31T12:00:00+00:00",
+      "id": 446216,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 10,
+          "quarter_2": 21,
+          "quarter_3": 17,
+          "quarter_4": 21,
+          "total": 69
+        },
+        "home": {
+          "quarter_1": 16,
+          "quarter_2": 27,
+          "quarter_3": 21,
+          "quarter_4": 22,
+          "total": 86
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3133,
+          "logo": "https://media.api-sports.io/basketball/teams/3133.png",
+          "name": "Belgium"
+        },
+        "home": {
+          "id": 3029,
+          "logo": "https://media.api-sports.io/basketball/teams/3029.png",
+          "name": "Slovenia"
+        }
+      },
+      "time": "12:00",
+      "timestamp": 1756641600,
+      "timezone": "UTC",
+      "venue": "Spodek",
+      "week": "3"
+    },
+    "446217": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1476.5210440114247,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -71,
+          "net_margin_avg": -35.5,
+          "played": 2,
+          "points_against": 187,
+          "points_for": 116,
+          "ppg_against": 93.5,
+          "ppg_for": 58,
+          "won": 0
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1526.0684762380235,
+          "home_played": 2,
+          "home_won": 2,
+          "lost": 0,
+          "margin_sum": 65,
+          "net_margin_avg": 32.5,
+          "played": 2,
+          "points_against": 114,
+          "points_for": 179,
+          "ppg_against": 57,
+          "ppg_for": 89.5,
+          "won": 2
+        },
+        "last5_avg_margin_away": -35.5,
+        "last5_avg_margin_home": 32.5,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 2 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 2 فوز، 0 تعادل، 0 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 0
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-31T15:15:00+00:00",
+      "id": 446217,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 9,
+          "quarter_2": 8,
+          "quarter_3": 12,
+          "quarter_4": 18,
+          "total": 47
+        },
+        "home": {
+          "quarter_1": 19,
+          "quarter_2": 22,
+          "quarter_3": 29,
+          "quarter_4": 21,
+          "total": 91
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3136,
+          "logo": "https://media.api-sports.io/basketball/teams/3136.png",
+          "name": "Cyprus"
+        },
+        "home": {
+          "id": 3058,
+          "logo": "https://media.api-sports.io/basketball/teams/3058.png",
+          "name": "Spain"
+        }
+      },
+      "time": "15:15",
+      "timestamp": 1756653300,
+      "timezone": "UTC",
+      "venue": "Spyros Kyprianou Arena",
+      "week": "3"
+    },
+    "446218": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1522.5643050779513,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 33,
+          "net_margin_avg": 16.5,
+          "played": 2,
+          "points_against": 141,
+          "points_for": 174,
+          "ppg_against": 70.5,
+          "ppg_for": 87,
+          "won": 2
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1477.2632655274847,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -38,
+          "net_margin_avg": -19,
+          "played": 2,
+          "points_against": 184,
+          "points_for": 146,
+          "ppg_against": 92,
+          "ppg_for": 73,
+          "won": 0
+        },
+        "last5_avg_margin_away": 16.5,
+        "last5_avg_margin_home": -19,
+        "last5_weighted_winrate_away": 1,
+        "last5_weighted_winrate_home": 0,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 2 فوز، 0 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 0 تعادل، 2 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-31T18:30:00+00:00",
+      "id": 446218,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 22,
+          "quarter_2": 22,
+          "quarter_3": 28,
+          "quarter_4": 24,
+          "total": 96
+        },
+        "home": {
+          "quarter_1": 21,
+          "quarter_2": 19,
+          "quarter_3": 21,
+          "quarter_4": 18,
+          "total": 79
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3020,
+          "logo": "https://media.api-sports.io/basketball/teams/3020.png",
+          "name": "Italy"
+        },
+        "home": {
+          "id": 3134,
+          "logo": "https://media.api-sports.io/basketball/teams/3134.png",
+          "name": "Bosnia & Herzegovina"
+        }
+      },
+      "time": "18:30",
+      "timestamp": 1756665000,
+      "timezone": "UTC",
+      "venue": "Spyros Kyprianou Arena",
+      "week": "3"
+    },
+    "446219": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1478.065650262512,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -16,
+          "net_margin_avg": -8,
+          "played": 2,
+          "points_against": 155,
+          "points_for": 139,
+          "ppg_against": 77.5,
+          "ppg_for": 69.5,
+          "won": 0
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1523.8568848848147,
+          "home_played": 2,
+          "home_won": 2,
+          "lost": 0,
+          "margin_sum": 11,
+          "net_margin_avg": 5.5,
+          "played": 2,
+          "points_against": 139,
+          "points_for": 150,
+          "ppg_against": 69.5,
+          "ppg_for": 75,
+          "won": 2
+        },
+        "last5_avg_margin_away": -8,
+        "last5_avg_margin_home": 5.5,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 2 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 2 فوز، 0 تعادل، 0 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-31T18:30:00+00:00",
+      "id": 446219,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 16,
+          "quarter_2": 16,
+          "quarter_3": 19,
+          "quarter_4": 24,
+          "total": 75
+        },
+        "home": {
+          "quarter_1": 19,
+          "quarter_2": 22,
+          "quarter_3": 20,
+          "quarter_4": 23,
+          "total": 84
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3142,
+          "logo": "https://media.api-sports.io/basketball/teams/3142.png",
+          "name": "Iceland"
+        },
+        "home": {
+          "id": 3024,
+          "logo": "https://media.api-sports.io/basketball/teams/3024.png",
+          "name": "Poland"
+        }
+      },
+      "time": "18:30",
+      "timestamp": 1756665000,
+      "timezone": "UTC",
+      "venue": "Spodek",
+      "week": "3"
+    },
+    "446220": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 2,
+          "elo": 1520.6479354170672,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 68,
+          "net_margin_avg": 34,
+          "played": 2,
+          "points_against": 122,
+          "points_for": 190,
+          "ppg_against": 61,
+          "ppg_for": 95,
+          "won": 2
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1476.9349737280486,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 2,
+          "margin_sum": -57,
+          "net_margin_avg": -28.5,
+          "played": 2,
+          "points_against": 172,
+          "points_for": 115,
+          "ppg_against": 86,
+          "ppg_for": 57.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": 34,
+        "last5_avg_margin_home": -28.5,
+        "last5_weighted_winrate_away": 1,
+        "last5_weighted_winrate_home": 0,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 2 فوز، 0 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 0 تعادل، 2 خسارة.",
+        "rest_days_away": 0,
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-31T12:00:00+00:00",
+      "id": 446220,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 22,
+          "quarter_2": 24,
+          "quarter_3": 23,
+          "quarter_4": 25,
+          "total": 94
+        },
+        "home": {
+          "quarter_1": 13,
+          "quarter_2": 16,
+          "quarter_3": 12,
+          "quarter_4": 12,
+          "total": 53
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3019,
+          "logo": "https://media.api-sports.io/basketball/teams/3019.png",
+          "name": "Greece"
+        },
+        "home": {
+          "id": 6585,
+          "logo": "https://media.api-sports.io/basketball/teams/6585.png",
+          "name": "Georgia"
+        }
+      },
+      "time": "12:00",
+      "timestamp": 1756641600,
+      "timezone": "UTC",
+      "venue": "Spyros Kyprianou Arena",
+      "week": "3"
+    },
+    "446221": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1498.9063042962678,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 1,
+          "margin_sum": -5,
+          "net_margin_avg": -2.5,
+          "played": 2,
+          "points_against": 177,
+          "points_for": 172,
+          "ppg_against": 88.5,
+          "ppg_for": 86,
+          "won": 1
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1501.828418995095,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 1,
+          "margin_sum": 11,
+          "net_margin_avg": 5.5,
+          "played": 2,
+          "points_against": 135,
+          "points_for": 146,
+          "ppg_against": 67.5,
+          "ppg_for": 73,
+          "won": 1
+        },
+        "last5_avg_margin_away": -2.5,
+        "last5_avg_margin_home": 5.5,
+        "last5_weighted_winrate_away": 0.4444444444444444,
+        "last5_weighted_winrate_home": 0.5555555555555556,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 1 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 0
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-08-31T15:00:00+00:00",
+      "id": 446221,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 22,
+          "quarter_2": 14,
+          "quarter_3": 20,
+          "quarter_4": 13,
+          "total": 69
+        },
+        "home": {
+          "quarter_1": 17,
+          "quarter_2": 19,
+          "quarter_3": 19,
+          "quarter_4": 27,
+          "total": 82
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3054,
+          "logo": "https://media.api-sports.io/basketball/teams/3054.png",
+          "name": "France"
+        },
+        "home": {
+          "id": 3143,
+          "logo": "https://media.api-sports.io/basketball/teams/3143.png",
+          "name": "Israel"
+        }
+      },
+      "time": "15:00",
+      "timestamp": 1756652400,
+      "timezone": "UTC",
+      "venue": "Spodek",
+      "week": "3"
+    },
+    "446222": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1513.645888788961,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 41,
+          "net_margin_avg": 20.5,
+          "played": 2,
+          "points_against": 54,
+          "points_for": 95,
+          "ppg_against": 27,
+          "ppg_for": 47.5,
+          "won": 1
+        },
+        "b2b_away": true,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.2923541078128,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 14,
+          "net_margin_avg": 7,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 89,
+          "ppg_against": 37.5,
+          "ppg_for": 44.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": 20.5,
+        "last5_avg_margin_home": 7,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-09-01T11:45:00+00:00",
+      "id": 446222,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3032,
+          "logo": "https://media.api-sports.io/basketball/teams/3032.png",
+          "name": "Turkey"
+        },
+        "home": {
+          "id": 3138,
+          "logo": "https://media.api-sports.io/basketball/teams/3138.png",
+          "name": "Estonia"
+        }
+      },
+      "time": "11:45",
+      "timestamp": 1756727100,
+      "timezone": "UTC",
+      "venue": "Xiaomi Arena",
+      "week": "4"
+    },
+    "446223": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.5548216842076,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -19,
+          "net_margin_avg": -9.5,
+          "played": 2,
+          "points_against": 107,
+          "points_for": 88,
+          "ppg_against": 53.5,
+          "ppg_for": 44,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.47109692147,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 20,
+          "net_margin_avg": 10,
+          "played": 2,
+          "points_against": 65,
+          "points_for": 85,
+          "ppg_against": 32.5,
+          "ppg_for": 42.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": -9.5,
+        "last5_avg_margin_home": 10,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "rest_days_away": 2,
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-09-01T17:30:00+00:00",
+      "id": 446223,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3021,
+          "logo": "https://media.api-sports.io/basketball/teams/3021.png",
+          "name": "Lithuania"
+        },
+        "home": {
+          "id": 3139,
+          "logo": "https://media.api-sports.io/basketball/teams/3139.png",
+          "name": "Finland"
+        }
+      },
+      "time": "17:30",
+      "timestamp": 1756747800,
+      "timezone": "UTC",
+      "venue": "Nokia Arena",
+      "week": "4"
+    },
+    "446224": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.5548216842076,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -19,
+          "net_margin_avg": -9.5,
+          "played": 2,
+          "points_against": 78,
+          "points_for": 59,
+          "ppg_against": 39,
+          "ppg_for": 29.5,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.4451783157924,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 19,
+          "net_margin_avg": 9.5,
+          "played": 2,
+          "points_against": 88,
+          "points_for": 107,
+          "ppg_against": 44,
+          "ppg_for": 53.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": -9.5,
+        "last5_avg_margin_home": 9.5,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "rest_days_away": 2,
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-09-01T13:30:00+00:00",
+      "id": 446224,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3140,
+          "logo": "https://media.api-sports.io/basketball/teams/3140.png",
+          "name": "Great Britain"
+        },
+        "home": {
+          "id": 3018,
+          "logo": "https://media.api-sports.io/basketball/teams/3018.png",
+          "name": "Germany"
+        }
+      },
+      "time": "13:30",
+      "timestamp": 1756733400,
+      "timezone": "UTC",
+      "venue": "Nokia Arena",
+      "week": "4"
+    },
+    "446225": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1490.291257347226,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -4,
+          "net_margin_avg": -2,
+          "played": 2,
+          "points_against": 84,
+          "points_for": 80,
+          "ppg_against": 42,
+          "ppg_for": 40,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.354111211039,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -41,
+          "net_margin_avg": -20.5,
+          "played": 2,
+          "points_against": 95,
+          "points_for": 54,
+          "ppg_against": 47.5,
+          "ppg_for": 27,
+          "won": 0
+        },
+        "last5_avg_margin_away": -2,
+        "last5_avg_margin_home": -20.5,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "rest_days_away": 2,
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-09-01T15:00:00+00:00",
+      "id": 446225,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3145,
+          "logo": "https://media.api-sports.io/basketball/teams/3145.png",
+          "name": "Latvia"
+        },
+        "home": {
+          "id": 3150,
+          "logo": "https://media.api-sports.io/basketball/teams/3150.png",
+          "name": "Portugal"
+        }
+      },
+      "time": "15:00",
+      "timestamp": 1756738800,
+      "timezone": "UTC",
+      "venue": "Xiaomi Arena",
+      "week": "4"
+    },
+    "446226": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.7076458921872,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -14,
+          "net_margin_avg": -7,
+          "played": 2,
+          "points_against": 89,
+          "points_for": 75,
+          "ppg_against": 44.5,
+          "ppg_for": 37.5,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1509.708742652774,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 4,
+          "net_margin_avg": 2,
+          "played": 2,
+          "points_against": 80,
+          "points_for": 84,
+          "ppg_against": 40,
+          "ppg_for": 42,
+          "won": 1
+        },
+        "last5_avg_margin_away": -7,
+        "last5_avg_margin_home": 2,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "rest_days_away": 2,
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-09-01T18:15:00+00:00",
+      "id": 446226,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3016,
+          "logo": "https://media.api-sports.io/basketball/teams/3016.png",
+          "name": "Czech Republic"
+        },
+        "home": {
+          "id": 3028,
+          "logo": "https://media.api-sports.io/basketball/teams/3028.png",
+          "name": "Serbia"
+        }
+      },
+      "time": "18:15",
+      "timestamp": 1756750500,
+      "timezone": "UTC",
+      "venue": "Xiaomi Arena",
+      "week": "4"
+    },
+    "446227": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.52890307853,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -20,
+          "net_margin_avg": -10,
+          "played": 2,
+          "points_against": 85,
+          "points_for": 65,
+          "ppg_against": 42.5,
+          "ppg_for": 32.5,
+          "won": 0
+        },
+        "b2b_away": true,
+        "b2b_home": true,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.4451783157924,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 19,
+          "net_margin_avg": 9.5,
+          "played": 2,
+          "points_against": 59,
+          "points_for": 78,
+          "ppg_against": 29.5,
+          "ppg_for": 39,
+          "won": 1
+        },
+        "last5_avg_margin_away": -10,
+        "last5_avg_margin_home": 9.5,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "rest_days_away": 1,
+        "rest_days_home": 1
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 55,
+        "name": "Europe"
+      },
+      "date": "2025-09-01T10:30:00+00:00",
+      "id": 446227,
+      "league": {
+        "id": 197,
+        "logo": "https://media.api-sports.io/basketball/leagues/197.png",
+        "name": "EuroBasket",
+        "season": 2025,
+        "type": "cup"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3147,
+          "logo": "https://media.api-sports.io/basketball/teams/3147.png",
+          "name": "Montenegro"
+        },
+        "home": {
+          "id": 3153,
+          "logo": "https://media.api-sports.io/basketball/teams/3153.png",
+          "name": "Sweden"
+        }
+      },
+      "time": "10:30",
+      "timestamp": 1756722600,
+      "timezone": "UTC",
+      "venue": "Nokia Arena",
+      "week": "4"
+    },
+    "449032": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.8176699962019,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -20,
+          "net_margin_avg": -20,
+          "played": 1,
+          "points_against": 20,
+          "points_for": 0,
+          "ppg_against": 20,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1513.1823300037981,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 20,
+          "net_margin_avg": 20,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 20,
+          "ppg_against": 0,
+          "ppg_for": 20,
+          "won": 1
+        },
+        "last5_avg_margin_away": -20,
+        "last5_avg_margin_home": 20,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "VN",
+        "flag": "https://media.api-sports.io/flags/vn.svg",
+        "id": 70,
+        "name": "Vietnam"
+      },
+      "date": "2025-08-30T12:30:00+00:00",
+      "id": 449032,
+      "league": {
+        "id": 276,
+        "logo": "https://media.api-sports.io/basketball/leagues/276.png",
+        "name": "VBA",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "total": 0
+        },
+        "home": {
+          "total": 20
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7431,
+          "logo": "https://media.api-sports.io/basketball/teams/7431.png",
+          "name": "V Islanders"
+        },
+        "home": {
+          "id": 3995,
+          "logo": "https://media.api-sports.io/basketball/teams/3995.png",
+          "name": "Ho Chi Minh City Wings"
+        }
+      },
+      "time": "12:30",
+      "timestamp": 1756557000,
+      "timezone": "UTC",
+      "venue": "Ho Xuan Huong Gymnasium"
+    },
+    "449033": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1487.3843207420286,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -8,
+          "net_margin_avg": -8,
+          "played": 1,
+          "points_against": 93,
+          "points_for": 85,
+          "ppg_against": 93,
+          "ppg_for": 85,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1512.6156792579714,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 8,
+          "net_margin_avg": 8,
+          "played": 1,
+          "points_against": 85,
+          "points_for": 93,
+          "ppg_against": 85,
+          "ppg_for": 93,
+          "won": 1
+        },
+        "last5_avg_margin_away": -8,
+        "last5_avg_margin_home": 8,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "VN",
+        "flag": "https://media.api-sports.io/flags/vn.svg",
+        "id": 70,
+        "name": "Vietnam"
+      },
+      "date": "2025-08-31T12:30:00+00:00",
+      "id": 449033,
+      "league": {
+        "id": 276,
+        "logo": "https://media.api-sports.io/basketball/leagues/276.png",
+        "name": "VBA",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 24,
+          "quarter_2": 30,
+          "quarter_3": 11,
+          "quarter_4": 20,
+          "total": 85
+        },
+        "home": {
+          "quarter_1": 19,
+          "quarter_2": 22,
+          "quarter_3": 34,
+          "quarter_4": 18,
+          "total": 93
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3994,
+          "logo": "https://media.api-sports.io/basketball/teams/3994.png",
+          "name": "Hanoi Buffaloes"
+        },
+        "home": {
+          "id": 75,
+          "logo": "https://media.api-sports.io/basketball/teams/75.png",
+          "name": "Saigon Heat"
+        }
+      },
+      "time": "12:30",
+      "timestamp": 1756643400,
+      "timezone": "UTC",
+      "venue": "CIS Arena"
+    },
+    "451954": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1488.3902085395914,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -1,
+          "net_margin_avg": -1,
+          "played": 1,
+          "points_against": 84,
+          "points_for": 83,
+          "ppg_against": 84,
+          "ppg_for": 83,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1511.6097914604086,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 1,
+          "net_margin_avg": 1,
+          "played": 1,
+          "points_against": 83,
+          "points_for": 84,
+          "ppg_against": 83,
+          "ppg_for": 84,
+          "won": 1
+        },
+        "last5_avg_margin_away": -1,
+        "last5_avg_margin_home": 1,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "PH",
+        "flag": "https://media.api-sports.io/flags/ph.svg",
+        "id": 60,
+        "name": "Philippines"
+      },
+      "date": "2025-08-30T08:00:00+00:00",
+      "id": 451954,
+      "league": {
+        "id": 426,
+        "logo": "https://media.api-sports.io/basketball/leagues/426.png",
+        "name": "MPBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 13,
+          "quarter_2": 19,
+          "quarter_3": 25,
+          "quarter_4": 26,
+          "total": 83
+        },
+        "home": {
+          "quarter_1": 13,
+          "quarter_2": 19,
+          "quarter_3": 22,
+          "quarter_4": 30,
+          "total": 84
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7375,
+          "logo": "https://media.api-sports.io/basketball/teams/7375.png",
+          "name": "Val City Magic"
+        },
+        "home": {
+          "id": 7356,
+          "logo": "https://media.api-sports.io/basketball/teams/7356.png",
+          "name": "Davao Tigers"
+        }
+      },
+      "time": "08:00",
+      "timestamp": 1756540800,
+      "timezone": "UTC"
+    },
+    "451955": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.6018075563093,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -28,
+          "net_margin_avg": -28,
+          "played": 1,
+          "points_against": 106,
+          "points_for": 78,
+          "ppg_against": 106,
+          "ppg_for": 78,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1513.3981924436907,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 28,
+          "net_margin_avg": 28,
+          "played": 1,
+          "points_against": 78,
+          "points_for": 106,
+          "ppg_against": 78,
+          "ppg_for": 106,
+          "won": 1
+        },
+        "last5_avg_margin_away": -28,
+        "last5_avg_margin_home": 28,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "PH",
+        "flag": "https://media.api-sports.io/flags/ph.svg",
+        "id": 60,
+        "name": "Philippines"
+      },
+      "date": "2025-08-30T10:00:00+00:00",
+      "id": 451955,
+      "league": {
+        "id": 426,
+        "logo": "https://media.api-sports.io/basketball/leagues/426.png",
+        "name": "MPBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 14,
+          "quarter_2": 20,
+          "quarter_3": 21,
+          "quarter_4": 23,
+          "total": 78
+        },
+        "home": {
+          "quarter_1": 22,
+          "quarter_2": 20,
+          "quarter_3": 29,
+          "quarter_4": 35,
+          "total": 106
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7359,
+          "logo": "https://media.api-sports.io/basketball/teams/7359.png",
+          "name": "Imus Braderhood"
+        },
+        "home": {
+          "id": 7349,
+          "logo": "https://media.api-sports.io/basketball/teams/7349.png",
+          "name": "Basilan Viva Portmasters"
+        }
+      },
+      "time": "10:00",
+      "timestamp": 1756548000,
+      "timezone": "UTC"
+    },
+    "451956": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.7010669909519,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -24,
+          "net_margin_avg": -24,
+          "played": 1,
+          "points_against": 89,
+          "points_for": 65,
+          "ppg_against": 89,
+          "ppg_for": 65,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1513.2989330090481,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 24,
+          "net_margin_avg": 24,
+          "played": 1,
+          "points_against": 65,
+          "points_for": 89,
+          "ppg_against": 65,
+          "ppg_for": 89,
+          "won": 1
+        },
+        "last5_avg_margin_away": -24,
+        "last5_avg_margin_home": 24,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "PH",
+        "flag": "https://media.api-sports.io/flags/ph.svg",
+        "id": 60,
+        "name": "Philippines"
+      },
+      "date": "2025-08-30T12:00:00+00:00",
+      "id": 451956,
+      "league": {
+        "id": 426,
+        "logo": "https://media.api-sports.io/basketball/leagues/426.png",
+        "name": "MPBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 11,
+          "quarter_2": 18,
+          "quarter_3": 17,
+          "quarter_4": 19,
+          "total": 65
+        },
+        "home": {
+          "quarter_1": 26,
+          "quarter_2": 21,
+          "quarter_3": 20,
+          "quarter_4": 22,
+          "total": 89
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 7358,
+          "logo": "https://media.api-sports.io/basketball/teams/7358.png",
+          "name": "Ilagan Isabela Cowboys"
+        },
+        "home": {
+          "id": 7364,
+          "logo": "https://media.api-sports.io/basketball/teams/7364.png",
+          "name": "Nueva Ecija Vanguards"
+        }
+      },
+      "time": "12:00",
+      "timestamp": 1756555200,
+      "timezone": "UTC"
+    },
+    "453477": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": 0,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.5,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "CZ",
+        "flag": "https://media.api-sports.io/flags/cz.svg",
+        "id": 12,
+        "name": "Czech Republic"
+      },
+      "date": "2025-08-31T17:00:00+00:00",
+      "id": 453477,
+      "league": {
+        "id": 228,
+        "logo": "https://media.api-sports.io/basketball/leagues/228.png",
+        "name": "1. Liga",
+        "season": "2025-2026",
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 2624,
+          "logo": "https://media.api-sports.io/basketball/teams/2624.png",
+          "name": "Sokol Prazsky"
+        },
+        "home": {
+          "id": 6027,
+          "logo": "https://media.api-sports.io/basketball/teams/6027.png",
+          "name": "Radotin"
+        }
+      },
+      "time": "17:00",
+      "timestamp": 1756659600,
+      "timezone": "UTC",
+      "venue": "Sportovní hala",
+      "week": "18"
+    },
+    "463879": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": 0,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.5,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "PH",
+        "flag": "https://media.api-sports.io/flags/ph.svg",
+        "id": 60,
+        "name": "Philippines"
+      },
+      "date": "2025-09-01T08:00:00+00:00",
+      "id": 463879,
+      "league": {
+        "id": 426,
+        "logo": "https://media.api-sports.io/basketball/leagues/426.png",
+        "name": "MPBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 7363,
+          "logo": "https://media.api-sports.io/basketball/teams/7363.png",
+          "name": "Muntinlupa Cagers"
+        },
+        "home": {
+          "id": 7347,
+          "logo": "https://media.api-sports.io/basketball/teams/7347.png",
+          "name": "Abra Weavers"
+        }
+      },
+      "time": "08:00",
+      "timestamp": 1756713600,
+      "timezone": "UTC"
+    },
+    "463880": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": 0,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.5,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "PH",
+        "flag": "https://media.api-sports.io/flags/ph.svg",
+        "id": 60,
+        "name": "Philippines"
+      },
+      "date": "2025-09-01T10:00:00+00:00",
+      "id": 463880,
+      "league": {
+        "id": 426,
+        "logo": "https://media.api-sports.io/basketball/leagues/426.png",
+        "name": "MPBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 7362,
+          "logo": "https://media.api-sports.io/basketball/teams/7362.png",
+          "name": "Mindoro Tamaraws"
+        },
+        "home": {
+          "id": 7371,
+          "logo": "https://media.api-sports.io/basketball/teams/7371.png",
+          "name": "Quezon Huskers"
+        }
+      },
+      "time": "10:00",
+      "timestamp": 1756720800,
+      "timezone": "UTC"
+    },
+    "463881": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": 0,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.5,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "PH",
+        "flag": "https://media.api-sports.io/flags/ph.svg",
+        "id": 60,
+        "name": "Philippines"
+      },
+      "date": "2025-09-01T12:00:00+00:00",
+      "id": 463881,
+      "league": {
+        "id": 426,
+        "logo": "https://media.api-sports.io/basketball/leagues/426.png",
+        "name": "MPBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 7367,
+          "logo": "https://media.api-sports.io/basketball/teams/7367.png",
+          "name": "Paranaque Patriots"
+        },
+        "home": {
+          "id": 7370,
+          "logo": "https://media.api-sports.io/basketball/teams/7370.png",
+          "name": "Quezon City"
+        }
+      },
+      "time": "12:00",
+      "timestamp": 1756728000,
+      "timezone": "UTC"
+    },
+    "465330": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.358844028534,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 16,
+          "net_margin_avg": 8,
+          "played": 2,
+          "points_against": 58,
+          "points_for": 74,
+          "ppg_against": 29,
+          "ppg_for": 37,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.641155971466,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -16,
+          "net_margin_avg": -8,
+          "played": 2,
+          "points_against": 74,
+          "points_for": 58,
+          "ppg_against": 37,
+          "ppg_for": 29,
+          "won": 0
+        },
+        "last5_avg_margin_away": 8,
+        "last5_avg_margin_home": -8,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-08-30T23:00:00+00:00",
+      "id": 465330,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 11,
+          "quarter_2": 17,
+          "quarter_3": 16,
+          "quarter_4": 30,
+          "total": 74
+        },
+        "home": {
+          "quarter_1": 14,
+          "quarter_2": 23,
+          "quarter_3": 8,
+          "quarter_4": 13,
+          "total": 58
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 4935,
+          "logo": "https://media.api-sports.io/basketball/teams/4935.png",
+          "name": "Deportivo Campoalto"
+        },
+        "home": {
+          "id": 7427,
+          "logo": "https://media.api-sports.io/basketball/teams/7427.png",
+          "name": "Sportivo Luqueno"
+        }
+      },
+      "time": "23:00",
+      "timestamp": 1756594800,
+      "timezone": "UTC",
+      "venue": "Club Leones de Luque"
+    },
+    "465331": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.6748371992821,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -25,
+          "net_margin_avg": -12.5,
+          "played": 2,
+          "points_against": 81,
+          "points_for": 56,
+          "ppg_against": 40.5,
+          "ppg_for": 28,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1513.3251628007179,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 25,
+          "net_margin_avg": 12.5,
+          "played": 2,
+          "points_against": 56,
+          "points_for": 81,
+          "ppg_against": 28,
+          "ppg_for": 40.5,
+          "won": 1
+        },
+        "last5_avg_margin_away": -12.5,
+        "last5_avg_margin_home": 12.5,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-08-30T22:00:00+00:00",
+      "id": 465331,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 16,
+          "quarter_2": 10,
+          "quarter_3": 19,
+          "quarter_4": 11,
+          "total": 56
+        },
+        "home": {
+          "quarter_1": 23,
+          "quarter_2": 7,
+          "quarter_3": 24,
+          "quarter_4": 27,
+          "total": 81
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3898,
+          "logo": "https://media.api-sports.io/basketball/teams/3898.png",
+          "name": "Ciudad Nueva"
+        },
+        "home": {
+          "id": 3900,
+          "logo": "https://media.api-sports.io/basketball/teams/3900.png",
+          "name": "Dep. San Jose"
+        }
+      },
+      "time": "22:00",
+      "timestamp": 1756591200,
+      "timezone": "UTC",
+      "venue": "León Coundou"
+    },
+    "465332": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1509.5902029877725,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 3,
+          "net_margin_avg": 3,
+          "played": 1,
+          "points_against": 72,
+          "points_for": 75,
+          "ppg_against": 72,
+          "ppg_for": 75,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1490.4097970122275,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -3,
+          "net_margin_avg": -1.5,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 72,
+          "ppg_against": 37.5,
+          "ppg_for": 36,
+          "won": 0
+        },
+        "last5_avg_margin_away": 3,
+        "last5_avg_margin_home": -1.5,
+        "last5_weighted_winrate_away": 1,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-08-30T23:00:00+00:00",
+      "id": 465332,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 17,
+          "quarter_2": 21,
+          "quarter_3": 18,
+          "quarter_4": 19,
+          "total": 75
+        },
+        "home": {
+          "quarter_1": 18,
+          "quarter_2": 18,
+          "quarter_3": 20,
+          "quarter_4": 16,
+          "total": 72
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3899,
+          "logo": "https://media.api-sports.io/basketball/teams/3899.png",
+          "name": "Colonias Gold"
+        },
+        "home": {
+          "id": 4936,
+          "logo": "https://media.api-sports.io/basketball/teams/4936.png",
+          "name": "Felix Perez Cardozo"
+        }
+      },
+      "time": "23:00",
+      "timestamp": 1756594800,
+      "timezone": "UTC",
+      "venue": "Efigenio Gonzalez"
+    },
+    "465333": {
+      "analytics": {
+        "awaySplitWinRate": 0.5,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 1,
+          "elo": 1510.0209902348322,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 8,
+          "net_margin_avg": 4,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 83,
+          "ppg_against": 37.5,
+          "ppg_for": 41.5,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1489.9790097651678,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -8,
+          "net_margin_avg": -4,
+          "played": 2,
+          "points_against": 83,
+          "points_for": 75,
+          "ppg_against": 41.5,
+          "ppg_for": 37.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": 4,
+        "last5_avg_margin_home": -4,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-08-30T23:00:00+00:00",
+      "id": 465333,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 16,
+          "quarter_2": 18,
+          "quarter_3": 29,
+          "quarter_4": 20,
+          "total": 83
+        },
+        "home": {
+          "quarter_1": 28,
+          "quarter_2": 19,
+          "quarter_3": 17,
+          "quarter_4": 11,
+          "total": 75
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 2997,
+          "logo": "https://media.api-sports.io/basketball/teams/2997.png",
+          "name": "Olimpia Kings"
+        },
+        "home": {
+          "id": 7424,
+          "logo": "https://media.api-sports.io/basketball/teams/7424.png",
+          "name": "Deportivo Amambay"
+        }
+      },
+      "time": "23:00",
+      "timestamp": 1756594800,
+      "timezone": "UTC",
+      "venue": "Estadio FBA"
+    },
+    "465334": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1489.641155971466,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -16,
+          "net_margin_avg": -8,
+          "played": 2,
+          "points_against": 74,
+          "points_for": 58,
+          "ppg_against": 37,
+          "ppg_for": 29,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1489.9790097651678,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -8,
+          "net_margin_avg": -4,
+          "played": 2,
+          "points_against": 83,
+          "points_for": 75,
+          "ppg_against": 41.5,
+          "ppg_for": 37.5,
+          "won": 0
+        },
+        "last5_avg_margin_away": -8,
+        "last5_avg_margin_home": -4,
+        "last5_weighted_winrate_away": 0.2777777777777778,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "rest_days_away": 2,
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-09-01T23:30:00+00:00",
+      "id": 465334,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 7427,
+          "logo": "https://media.api-sports.io/basketball/teams/7427.png",
+          "name": "Sportivo Luqueno"
+        },
+        "home": {
+          "id": 7424,
+          "logo": "https://media.api-sports.io/basketball/teams/7424.png",
+          "name": "Deportivo Amambay"
+        }
+      },
+      "time": "23:30",
+      "timestamp": 1756769400,
+      "timezone": "UTC",
+      "venue": "Estadio FBA"
+    },
+    "465335": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.358844028534,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 16,
+          "net_margin_avg": 8,
+          "played": 2,
+          "points_against": 58,
+          "points_for": 74,
+          "ppg_against": 29,
+          "ppg_for": 37,
+          "won": 1
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": 8,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.7222222222222222,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-09-01T23:30:00+00:00",
+      "id": 465335,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3901,
+          "logo": "https://media.api-sports.io/basketball/teams/3901.png",
+          "name": "San Alfonzo"
+        },
+        "home": {
+          "id": 4935,
+          "logo": "https://media.api-sports.io/basketball/teams/4935.png",
+          "name": "Deportivo Campoalto"
+        }
+      },
+      "time": "23:30",
+      "timestamp": 1756769400,
+      "timezone": "UTC",
+      "venue": "Comando Logistico"
+    },
+    "465336": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1513.3251628007179,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 25,
+          "net_margin_avg": 12.5,
+          "played": 2,
+          "points_against": 56,
+          "points_for": 81,
+          "ppg_against": 28,
+          "ppg_for": 40.5,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1490.4097970122275,
+          "home_played": 2,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -3,
+          "net_margin_avg": -1.5,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 72,
+          "ppg_against": 37.5,
+          "ppg_for": 36,
+          "won": 0
+        },
+        "last5_avg_margin_away": 12.5,
+        "last5_avg_margin_home": -1.5,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "rest_days_away": 2,
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-09-01T23:30:00+00:00",
+      "id": 465336,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 3900,
+          "logo": "https://media.api-sports.io/basketball/teams/3900.png",
+          "name": "Dep. San Jose"
+        },
+        "home": {
+          "id": 4936,
+          "logo": "https://media.api-sports.io/basketball/teams/4936.png",
+          "name": "Felix Perez Cardozo"
+        }
+      },
+      "time": "23:30",
+      "timestamp": 1756769400,
+      "timezone": "UTC",
+      "venue": "Efigenio Gonzalez"
+    },
+    "465337": {
+      "analytics": {
+        "awaySplitWinRate": 0.5,
+        "awayStats": {
+          "away_played": 2,
+          "away_won": 1,
+          "elo": 1510.0209902348322,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 8,
+          "net_margin_avg": 4,
+          "played": 2,
+          "points_against": 75,
+          "points_for": 83,
+          "ppg_against": 37.5,
+          "ppg_for": 41.5,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.6748371992821,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -25,
+          "net_margin_avg": -12.5,
+          "played": 2,
+          "points_against": 81,
+          "points_for": 56,
+          "ppg_against": 40.5,
+          "ppg_for": 28,
+          "won": 0
+        },
+        "last5_avg_margin_away": 4,
+        "last5_avg_margin_home": -12.5,
+        "last5_weighted_winrate_away": 0.7222222222222222,
+        "last5_weighted_winrate_home": 0.2777777777777778,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 1 خسارة.",
+        "rest_days_away": 2,
+        "rest_days_home": 2
+      },
+      "country": {
+        "code": "PY",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "id": 67,
+        "name": "Paraguay"
+      },
+      "date": "2025-09-01T23:30:00+00:00",
+      "id": 465337,
+      "league": {
+        "id": 258,
+        "logo": "https://media.api-sports.io/basketball/leagues/258.png",
+        "name": "LNB",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 2997,
+          "logo": "https://media.api-sports.io/basketball/teams/2997.png",
+          "name": "Olimpia Kings"
+        },
+        "home": {
+          "id": 3898,
+          "logo": "https://media.api-sports.io/basketball/teams/3898.png",
+          "name": "Ciudad Nueva"
+        }
+      },
+      "time": "23:30",
+      "timestamp": 1756769400,
+      "timezone": "UTC",
+      "venue": "Luis Fernandez Arena"
+    },
+    "465494": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1486.9995321841034,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -15,
+          "net_margin_avg": -15,
+          "played": 1,
+          "points_against": 92,
+          "points_for": 77,
+          "ppg_against": 92,
+          "ppg_for": 77,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 1,
+        "homeSplitWinRate": 1,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1513.0004678158966,
+          "home_played": 1,
+          "home_won": 1,
+          "lost": 0,
+          "margin_sum": 15,
+          "net_margin_avg": 15,
+          "played": 1,
+          "points_against": 77,
+          "points_for": 92,
+          "ppg_against": 77,
+          "ppg_for": 92,
+          "won": 1
+        },
+        "last5_avg_margin_away": -15,
+        "last5_avg_margin_home": 15,
+        "last5_weighted_winrate_away": 0,
+        "last5_weighted_winrate_home": 1,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 0 تعادل، 1 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 1 فوز، 0 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 62,
+        "name": "World"
+      },
+      "date": "2025-08-30T20:40:00+00:00",
+      "id": 465494,
+      "league": {
+        "id": 282,
+        "logo": "https://media.api-sports.io/basketball/leagues/282.png",
+        "name": "AmeriCup",
+        "season": 2023,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 23,
+          "quarter_2": 29,
+          "quarter_3": 16,
+          "quarter_4": 9,
+          "total": 77
+        },
+        "home": {
+          "quarter_1": 20,
+          "quarter_2": 18,
+          "quarter_3": 20,
+          "quarter_4": 34,
+          "total": 92
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3059,
+          "logo": "https://media.api-sports.io/basketball/teams/3059.png",
+          "name": "USA"
+        },
+        "home": {
+          "id": 3014,
+          "logo": "https://media.api-sports.io/basketball/teams/3014.png",
+          "name": "Brazil"
+        }
+      },
+      "time": "20:40",
+      "timestamp": 1756586400,
+      "timezone": "UTC",
+      "venue": "Polideportivo Alexis Argüello",
+      "week": "AmeriCup - Semi-finals"
+    },
+    "465495": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": 0,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.5,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "SG",
+        "flag": "https://media.api-sports.io/flags/sg.svg",
+        "id": 78,
+        "name": "Singapore"
+      },
+      "date": "2025-08-30T11:45:00+00:00",
+      "id": 465495,
+      "league": {
+        "id": 410,
+        "logo": "https://media.api-sports.io/basketball/leagues/410.png",
+        "name": "NBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 6365,
+          "logo": "https://media.api-sports.io/basketball/teams/6365.png",
+          "name": "Adroit"
+        },
+        "home": {
+          "id": 6367,
+          "logo": "https://media.api-sports.io/basketball/teams/6367.png",
+          "name": "Eng Tat Hornets"
+        }
+      },
+      "time": "11:45",
+      "timestamp": 1756554300,
+      "timezone": "UTC",
+      "week": "NBL - Final"
+    },
+    "465496": {
+      "analytics": {
+        "awaySplitWinRate": 1,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 1,
+          "elo": 1510.1275917336231,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 10,
+          "net_margin_avg": 10,
+          "played": 1,
+          "points_against": 73,
+          "points_for": 83,
+          "ppg_against": 73,
+          "ppg_for": 83,
+          "won": 1
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 1,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1489.8724082663769,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 1,
+          "margin_sum": -10,
+          "net_margin_avg": -10,
+          "played": 1,
+          "points_against": 83,
+          "points_for": 73,
+          "ppg_against": 83,
+          "ppg_for": 73,
+          "won": 0
+        },
+        "last5_avg_margin_away": 10,
+        "last5_avg_margin_home": -10,
+        "last5_weighted_winrate_away": 1,
+        "last5_weighted_winrate_home": 0,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 1 فوز، 0 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 0 تعادل، 1 خسارة."
+      },
+      "country": {
+        "code": " ",
+        "flag": "https://media.api-sports.io/flags/ .svg",
+        "id": 62,
+        "name": "World"
+      },
+      "date": "2025-08-31T00:10:00+00:00",
+      "id": 465496,
+      "league": {
+        "id": 282,
+        "logo": "https://media.api-sports.io/basketball/leagues/282.png",
+        "name": "AmeriCup",
+        "season": 2023,
+        "type": "cup"
+      },
+      "scores": {
+        "away": {
+          "quarter_1": 24,
+          "quarter_2": 22,
+          "quarter_3": 22,
+          "quarter_4": 15,
+          "total": 83
+        },
+        "home": {
+          "quarter_1": 9,
+          "quarter_2": 20,
+          "quarter_3": 16,
+          "quarter_4": 28,
+          "total": 73
+        }
+      },
+      "status": {
+        "long": "Game Finished",
+        "short": "FT"
+      },
+      "teams": {
+        "away": {
+          "id": 3052,
+          "logo": "https://media.api-sports.io/basketball/teams/3052.png",
+          "name": "Argentina"
+        },
+        "home": {
+          "id": 3015,
+          "logo": "https://media.api-sports.io/basketball/teams/3015.png",
+          "name": "Canada"
+        }
+      },
+      "time": "00:10",
+      "timestamp": 1756599000,
+      "timezone": "UTC",
+      "venue": "Polideportivo Alexis Argüello",
+      "week": "AmeriCup - Semi-finals"
+    },
+    "465497": {
+      "analytics": {
+        "awaySplitWinRate": 0,
+        "awayStats": {
+          "away_played": 1,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 0,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "b2b_away": false,
+        "b2b_home": false,
+        "h2h_away_wins": 0,
+        "h2h_home_wins": 0,
+        "homeSplitWinRate": 0,
+        "homeStats": {
+          "away_played": 0,
+          "away_won": 0,
+          "elo": 1500,
+          "home_played": 1,
+          "home_won": 0,
+          "lost": 0,
+          "margin_sum": 0,
+          "net_margin_avg": 0,
+          "played": 1,
+          "points_against": 0,
+          "points_for": 0,
+          "ppg_against": 0,
+          "ppg_for": 0,
+          "won": 0
+        },
+        "last5_avg_margin_away": 0,
+        "last5_avg_margin_home": 0,
+        "last5_weighted_winrate_away": 0.5,
+        "last5_weighted_winrate_home": 0.5,
+        "recent_performance_away": "آخر 5 مباريات للفريق الضيف: 0 فوز، 1 تعادل، 0 خسارة.",
+        "recent_performance_home": "آخر 5 مباريات للفريق المضيف: 0 فوز، 1 تعادل، 0 خسارة."
+      },
+      "country": {
+        "code": "SG",
+        "flag": "https://media.api-sports.io/flags/sg.svg",
+        "id": 78,
+        "name": "Singapore"
+      },
+      "date": "2025-08-30T10:00:00+00:00",
+      "id": 465497,
+      "league": {
+        "id": 410,
+        "logo": "https://media.api-sports.io/basketball/leagues/410.png",
+        "name": "NBL",
+        "season": 2025,
+        "type": "League"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "teams": {
+        "away": {
+          "id": 6371,
+          "logo": "https://media.api-sports.io/basketball/teams/6371.png",
+          "name": "SG Basketball"
+        },
+        "home": {
+          "id": 6372,
+          "logo": "https://media.api-sports.io/basketball/teams/6372.png",
+          "name": "Siglap"
+        }
+      },
+      "time": "10:00",
+      "timestamp": 1756548000,
+      "timezone": "UTC",
+      "week": "NBL - 3rd place"
+    }
+  }
 }
